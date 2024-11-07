@@ -1,0 +1,32 @@
+studyName,Sample Number,Make,Model,Region,City,Stage,Car ID,Manufactured,Date Purchased,Length (mm),Width (mm),Height (mm),Weight (kg),Fuel Type,CO2 Emissions (g/km),Fuel Efficiency (km/l),Comments
+CAR2021,1,Toyota,Corolla,North America,Los Angeles,"New, Base Model",C1A1,Yes,2021-02-15,4630,1780,1435,1350,Petrol,115,15.6,Low emissions vehicle.
+CAR2021,2,Ford,Mustang,North America,New York,"New, Sport Model",C1B1,Yes,2021-03-11,4784,1916,1381,1650,Petrol,198,8.9,High-performance model.
+CAR2021,3,Honda,Civic,Asia,Tokyo,"Used, Economy Model",C2A1,Yes,2019-08-22,4656,1799,1421,1250,Petrol,128,14.2,Pre-owned, well-maintained.
+CAR2021,4,Chevrolet,Malibu,Europe,London,"New, Luxury Model",C2B1,Yes,2021-07-29,4930,1854,1442,1570,Diesel,140,10.8,Good for long drives.
+CAR2021,5,Tesla,Model S,North America,San Francisco,"New, Electric Model",C3A1,Yes,2021-11-10,4970,1963,1445,2100,Electric,0,NA,Environment-friendly electric vehicle.
+CAR2021,6,Nissan,Altima,North America,Dallas,"New, Mid-Range Model",C1A2,Yes,2022-01-05,4900,1830,1450,1490,Petrol,130,13.2,Good for city and highway driving.
+CAR2021,7,Audi,A4,Europe,Berlin,"Used, Luxury Model",C1A3,Yes,2020-05-14,4762,1842,1427,1550,Diesel,145,12.5,Certified pre-owned.
+CAR2021,8,Kia,Optima,Asia,Seoul,"New, Base Model",C2A2,Yes,2022-03-10,4850,1835,1465,1520,Petrol,140,12.8,Affordable family sedan.
+CAR2021,9,Hyundai,Elantra,North America,Chicago,"Used, Economy Model",C1A4,Yes,2018-09-07,4620,1800,1430,1200,Petrol,132,15.0,Efficient and budget-friendly.
+CAR2021,10,BMW,3 Series,Europe,Paris,"New, Sport Model",C2A3,Yes,2022-06-18,4709,1827,1435,1595,Diesel,162,11.0,Popular luxury sedan.
+CAR2021,11,Mercedes-Benz,C-Class,Europe,Frankfurt,"New, Luxury Model",C2A4,Yes,2022-07-11,4751,1835,1430,1650,Diesel,155,10.5,Well-equipped for comfort.
+CAR2021,12,Volkswagen,Passat,Europe,Madrid,"New, Base Model",C2A5,Yes,2022-08-21,4901,1837,1470,1525,Diesel,120,13.5,Spacious and reliable.
+CAR2021,13,Subaru,Impreza,Asia,Tokyo,"New, AWD Model",C1A5,Yes,2022-09-15,4625,1778,1465,1470,Petrol,138,13.0,All-wheel drive standard.
+CAR2021,14,Volvo,S60,Europe,Stockholm,"New, Luxury Model",C3A2,Yes,2022-11-10,4761,1850,1437,1625,Diesel,135,12.0,Known for safety features.
+CAR2021,15,Mazda,6,Asia,Hong Kong,"Used, Economy Model",C1A6,Yes,2020-06-17,4865,1840,1445,1390,Petrol,145,11.8,Compact yet powerful.
+CAR2021,16,Jeep,Wrangler,North America,Phoenix,"New, Off-Road Model",C3A3,Yes,2022-04-12,4330,1875,1830,1850,Petrol,246,7.5,Off-road capabilities.
+CAR2021,17,Dodge,Charger,North America,Detroit,"New, Sport Model",C1B2,Yes,2021-10-25,5100,1905,1450,1790,Petrol,210,8.5,High-performance sedan.
+CAR2021,18,Cadillac,CTS,North America,Miami,"New, Luxury Model",C2A6,Yes,2022-08-05,4966,1833,1450,1750,Petrol,165,10.1,Luxury design with comfort.
+CAR2021,19,Mitsubishi,Outlander,Asia,Singapore,"Used, SUV Model",C1A7,Yes,2021-01-20,4710,1810,1710,1680,Diesel,180,9.2,Spacious interior for families.
+CAR2021,20,Chevrolet,Equinox,North America,Toronto,"New, Compact SUV",C3A4,Yes,2022-05-11,4655,1845,1690,1580,Petrol,155,12.3,Compact but versatile SUV.
+CAR2021,21,Hyundai,Tucson,Asia,Beijing,"New, Crossover Model",C2A7,Yes,2021-12-19,4630,1865,1665,1625,Diesel,150,10.8,Great for urban and rural roads.
+CAR2021,22,Toyota,Highlander,North America,Vancouver,"New, Family SUV",C3A5,Yes,2021-09-30,4950,1930,1760,1960,Petrol,180,10.0,Spacious with seating for 7.
+CAR2021,23,Ford,EcoSport,Europe,Amsterdam,"Used, Compact SUV",C1B3,Yes,2019-07-15,3999,1765,1653,1250,Diesel,125,13.8,Small but capable.
+CAR2021,24,Nissan,Kicks,South America,Bogota,"New, Economy SUV",C2A8,Yes,2022-06-29,4295,1760,1590,1215,Petrol,138,14.5,Economy with style.
+CAR2021,25,Renault,Kadjar,Europe,Rome,"New, Crossover Model",C3A6,Yes,2022-03-25,4499,1848,1610,1400,Diesel,140,12.5,Known for reliability.
+CAR2021,26,Audi,Q5,Europe,Munich,"New, Luxury SUV",C1B4,Yes,2022-10-12,4660,1893,1660,1785,Diesel,175,11.3,Luxury with advanced features.
+CAR2021,27,Tesla,Model 3,North America,Seattle,"New, Electric Model",C3A7,Yes,2022-02-17,4694,1933,1443,1850,Electric,0,NA,Long-range electric vehicle.
+CAR2021,28,Lexus,ES,Asia,Sydney,"New, Luxury Sedan",C1B5,Yes,2022-01-30,4975,1860,1450,1680,Petrol,150,11.0,Comfort with premium feel.
+CAR2021,29,Volkswagen,Jetta,Europe,Brussels,"Used, Compact Sedan",C1A8,Yes,2019-05-13,4700,1799,1452,1300,Diesel,130,14.0,Affordable and efficient.
+CAR2021,30,Ford,Escape,North America,Houston,"New, Hybrid Model",C2A9,Yes,2022-04-14,4585,1884,1676,1615,Hybrid,110,18.0,Economical hybrid option.
+
