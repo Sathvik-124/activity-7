@@ -1,12 +1,6 @@
 studyName,Sample Number,Make,Model,Region,City,Stage,Car ID,Manufactured,Date Purchased,Length (mm),Width (mm),Height (mm),Weight (kg),Fuel Type,CO2 Emissions (g/km),Fuel Efficiency (km/l),Comments
-CAR2021,1,Toyota,Corolla,North America,Los Angeles,"New, Base Model",C1A1,Yes,2021-02-15,4630,1780,1435,1350,Petrol,115,15.6,Low emissions vehicle.
-CAR2021,2,Ford,Mustang,North America,New York,"New, Sport Model",C1B1,Yes,2021-03-11,4784,1916,1381,1650,Petrol,198,High-performance model.
-CAR2021,3,Honda,Civic,Asia,Tokyo,"Used, Economy Model",C2A1,Yes,2019-08-22,4656,1799,1421,1250,Petrol,128,14.2,Pre-owned, well-maintained.
-CAR2021,4,Chevrolet,Malibu,Europe,London,"New, Luxury Model",C2B1,Yes,2021-07-29,4930,1854,1442,1570,Diesel,140,10.8,Good for long drives.
-CAR2021,5,Tesla,Model S,North America,San Francisco,"New, Electric Model",C3A1,Yes,2021-11-10,4970,1963,1445,2100,Electric,0,NA,Environment-friendly electric vehicle.
-CAR2021,6,Nissan,Altima,North America,Dallas,"New, Mid-Range Model",C1A2,Yes,2022-01-05,4900,1830,1450,1490,Petrol,130,13.2,Good for city and highway driving.
-CAR2021,7,Audi,A4,Europe,Berlin,"Used, Luxury Model",C1A3,Yes,2020-05-14,4762,1842,1427,1550,Diesel,145,12.5,Certified pre-owned.
-CAR2021,8,Kia,Optima,Asia,Seoul,"New, Base Model",C2A2,Yes,2022-03-10,4850,1835,1465,1520,Petrol,140,12.8,Affordable family sedan.
-CAR2021,9,Hyundai,Elantra,North America,Chicago,"Used, Economy Model",C1A4,Yes,2018-09-07,4620,1800,1430,1200,Petrol,132,15.0,Efficient and budget-friendly.
-CAR2021,10,BMW,3 Series,Europe,Paris,"New, Sport Model",C2A3,Yes,2022-06-18,4709,1827,1435,1595,Diesel,162,11.0,Popular luxury sedan.
-
+CAR2021,1,Toyota,Corolla,North America,Los Angeles,"New, Base Model",C1A1,Yes,2021-02-15,4630,1780,1435,1350,Petrol,115,15.6,"Low emissions vehicle."
+CAR2021,2,Ford,Mustang,North America,New York,"New, Sport Model",C1B1,Yes,2021-03-11,4784,1916,1381,1650,Petrol,198,8.9,"High-performance model."
+CAR2021,3,Honda,Civic,Asia,Tokyo,"Used, Economy Model",C2A1,Yes,2019-08-22,4656,1799,1421,1250,Petrol,128,14.2,"Pre-owned, well-maintained."
+CAR2021,4,Chevrolet,Malibu,Europe,London,"New, Luxury Model",C2B1,Yes,2021-07-29,4930,1854,1442,1570,Diesel,140,10.8,"Good for long drives."
+CAR2021,5,Tesla,Model S,North America,San Francisco,"New, Electric Model",C3A1,Yes,2021-11-10,4970,1963,1445,2100,Electric,0,NA,"Environment-friendly electric vehicle."
