@@ -1,0 +1,51 @@
+Sno,Entity,Brand,Year,Chocolate Varieties,Market Share (%),Number of Countries Sold,Ground Stations,Chocolate Sales (in Million USD)
+0,Switzerland,Swiss Chocolate,1980,15,20,25,50,3000
+1,Belgium,Godiva,1981,18,22,30,52,3200
+2,Germany,Lindt,1982,20,25,35,55,3500
+3,United States,Hershey's,1983,25,30,40,60,4000
+4,United Kingdom,Cadbury,1984,30,35,45,65,4500
+5,Italy,Perugina,1985,10,18,20,40,2800
+6,France,Valrhona,1986,12,20,22,42,3000
+7,Japan,Meiji,1987,14,22,25,45,3300
+8,Canada,Barry Callebaut,1988,16,24,28,48,3600
+9,Switzerland,Toblerone,1989,22,27,33,50,3900
+10,United States,Milka,1990,13,19,18,38,3100
+11,Belgium,Ghirardelli,1991,14,21,20,39,3300
+12,Germany,Godiva,1992,16,23,23,40,3500
+13,United States,Hershey's,1993,28,31,42,61,4200
+14,United Kingdom,Cadbury,1994,32,34,47,67,4600
+15,Italy,Perugina,1995,11,17,19,41,2900
+16,France,Valrhona,1996,13,21,24,43,3100
+17,Japan,Meiji,1997,15,23,26,46,3400
+18,Canada,Barry Callebaut,1998,17,25,30,49,3700
+19,Switzerland,Toblerone,1999,23,28,34,51,4000
+20,United States,Milka,2000,14,20,21,39,3200
+21,Belgium,Ghirardelli,2001,15,22,23,40,3400
+22,Germany,Godiva,2002,17,24,25,41,3600
+23,United States,Hershey's,2003,29,32,43,62,4300
+24,United Kingdom,Cadbury,2004,33,36,48,68,4700
+25,Italy,Perugina,2005,12,18,20,42,3000
+26,France,Valrhona,2006,14,22,25,44,3200
+27,Japan,Meiji,2007,16,24,27,47,3500
+28,Canada,Barry Callebaut,2008,18,26,31,50,3800
+29,Switzerland,Toblerone,2009,24,29,35,52,4100
+30,United States,Milka,2010,15,21,22,40,3300
+31,Belgium,Ghirardelli,2011,16,23,24,41,3500
+32,Germany,Godiva,2012,18,25,26,42,3700
+33,United States,Hershey's,2013,30,33,44,63,4400
+34,United Kingdom,Cadbury,2014,34,37,49,69,4800
+35,Italy,Perugina,2015,13,19,21,43,3100
+36,France,Valrhona,2016,15,23,26,45,3300
+37,Japan,Meiji,2017,17,25,28,48,3600
+38,Canada,Barry Callebaut,2018,19,27,32,51,3900
+39,Switzerland,Toblerone,2019,25,30,36,53,4200
+40,United States,Milka,2020,16,22,23,41,3400
+41,Belgium,Ghirardelli,2021,17,24,25,42,3600
+42,Germany,Godiva,2022,19,26,27,43,3800
+43,United States,Hershey's,2023,31,34,45,64,4500
+44,United Kingdom,Cadbury,2024,35,38,50,70,4900
+45,Italy,Perugina,2025,14,20,22,44,3200
+46,France,Valrhona,2026,16,24,27,46,3400
+47,Japan,Meiji,2027,18,26,29,49,3700
+48,Canada,Barry Callebaut,2028,20,28,33,52,4000
+49,Switzerland,Toblerone,2029,26,31,37,54,4300
